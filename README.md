@@ -48,11 +48,10 @@ npm install
 npm start
 
 ```
-```javascript
-    function add(num1,num2){
-        return num1+num2;
-    }
-
+`javascript
+function add(num1,num2){
+   return num1+num2;
+   }
 ```
 
 
